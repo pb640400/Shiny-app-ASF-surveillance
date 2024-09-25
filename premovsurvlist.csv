@@ -1,0 +1,3 @@
+Scenario.Number,Scenario_Label,Premove survdays,Premov sample size,if_premovpen_same_rope,Oral surv days,Ropesamppenprev,If_repeat_ropepens,Bloodtargetsampletype,Ofsampletype,Mortriggdaysprior,Mortrigper1000,Ismorttrigconsec,BoolRefrigerationyesno,Refregerationmaxdead,Refdaysaccumulate
+1,Protocol_1,1,20,FALSE,NA,NA,FALSE,2,1,30,5,TRUE,FALSE,100,2
+2,Protocol_2,1,20,FALSE,NA,NA,FALSE,2,1,30,5,TRUE,FALSE,100,2
