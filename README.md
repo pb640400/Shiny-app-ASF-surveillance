@@ -7,7 +7,7 @@ The file App.R is the primary file. The file transmission-asf-debug-gammaall.c m
 The app may be accessed by the link below:
 https://sumn.shinyapps.io/ASF_hetl_g1/
 
-
+\n
 For details on the disease transmission simulation model, see: 
 Ssematimba A, Malladi S, Bonney PJ, Charles KM, Boyer TC, Goldsmith T, Cardona CJ, Corzo CA, Culhane MR. African swine fever detection and transmission estimates using homogeneous versus heterogeneous model formulation in stochastic simulations within pig premises. Open Veterinary Journal. 2022;12(6):787-96.
 
